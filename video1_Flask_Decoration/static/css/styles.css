@@ -1,0 +1,21 @@
+.card{
+    width: 100px;
+    height: 200px;
+    background-color: #800000;
+    border-radius: 10px;
+}
+
+.photo {
+    height: 30%;
+    padding: 10px;
+}
+
+.info {
+    height: 40%;
+    margin: 10px;
+}
+
+img {
+    position: relative;
+    border-radius: 20px;
+}
